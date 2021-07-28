@@ -1,1 +1,1 @@
-print(theo bad)
+print("Theo bad")
